@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about reproducibility conference)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/reproducibility-conference.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>KDD 2017 Research Papers New Reproducibility Policy</title><link>https://reproduciblescience.org/directory/kdd2017-call-for-repro-research-papers/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Reproducibility: Submitted papers will be assessed based on their novelty, technical quality, potential impact, insightfulness, depth, clarity, and reproducibility. Authors are strongly encouraged to make their code and data publicly available whenever possible. Algorithms and resources used in a paper should be described as completely as possible to allow reproducibility. This includes experimental methodology, empirical evaluations, and results. The reproducibility factor will play an important role in the assessment of each submission.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><category>reproducible paper</category><guid>https://reproduciblescience.org/directory/kdd2017-call-for-repro-research-papers/</guid><pubDate>Wed, 30 Nov 2016 05:11:00 GMT</pubDate></item><item><title>From old York to New York: PASIG 2016</title><link>https://reproduciblescience.org/directory/2016-11-pasig-made-me-think/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;One of the most valuable talks of the day for me was from Fernando Chirigati from New York University. He introduced us to a useful new tool called ReproZip. He made the point that the computational environment is as important as the data itself for the reproducibility of research data. This could include information about libraries used, environment variables and options. You can not expect your depositors to find or document all of the dependencies (or your future users to install them). What ReproZip does is package up all the necessary dependencies along with the data itself. This package can then be archived and re-used in the future. ReproZip can also be used to unpack and re-use the data in the future. I can see a very real use case for this for researchers within our institution.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><category>reproducibility infrastructure</category><category>ReproZip</category><guid>https://reproduciblescience.org/directory/2016-11-pasig-made-me-think/</guid><pubDate>Fri, 04 Nov 2016 05:11:00 GMT</pubDate></item><item><title>A University Symposium: Promoting Credibility, Reproducibility and Integrity in Research</title><link>https://reproduciblescience.org/directory/uni-symposoum-promote-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Columbia University and other New York City research institutions, including NYU, are hosting a one-day symposium on December 9, 2016 to showcase a robust discussion of reproducibility and research integrity among leading experts, high-profile journal editors, funders and researchers. This program will reveal the "inside story" of how issues are handled by institutions, journals and federal agencies and offer strategies for responding to challenges in these areas. The stimulating and provacative program is for researchers at all stages of their careers.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/uni-symposoum-promote-repro/</guid><pubDate>Mon, 17 Oct 2016 05:10:00 GMT</pubDate></item><item><title>Clinical Trial Transparency and Reproducibility Discussion Panel and Workshop at NYU</title><link>https://reproduciblescience.org/directory/nyu-clinical-trial-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Please join us for a free afternoon of clinical research transparency and reproducibility discussion and learning co-hosted by New York University, Center for Open Science, and AllTrials USA (part of Sense About Science USA).&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/nyu-clinical-trial-repro/</guid><pubDate>Fri, 02 Sep 2016 05:09:00 GMT</pubDate></item><item><title>Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research</title><link>https://reproduciblescience.org/directory/turning-repro-symposium/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research was held on 6th - 7th April 2016 at the University of Oxford. It was organised by senior academics, publishers and library professionals representing the Alan Turing Institute (ATI) joint venture partners (the universities of Cambridge, Edinburgh, Oxford, UCL and Warwick), the University of Manchester, Newcastle University and the British Library. The key aim of the symposium was to address the challenges around reproducibility of data-intensive research in science, social science and the humanities. This report presents an overview of the discussions and makes some recommendations for the ATI to take forwards.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/turning-repro-symposium/</guid><pubDate>Tue, 23 Aug 2016 05:08:00 GMT</pubDate></item><item><title>Report from the first CRN coding sprint</title><link>https://reproduciblescience.org/directory/report-from-the-first-crn-coding-sprint/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Two weeks ago (1st-4th of August 2016) we hosted a coding sprint at Stanford aimed at making neuroimaging data processing and analysis tools more portable and accessible. You might have heard about BIDS – it is a new standard for organizing and describing neuroimaging datasets that we have recently proposed. Containers (also known as “operating-system-level virtualization”) are very lightweight virtual machines that can encapsulate any piece of code along with all of the libraries necessary to run it. Docker and Singularity are two examples of container technologies. The reason we are so excited about containers for reproducible data analysis is that they provide a way to package a piece of software which can run in the same way across many different computing platforms, from a laptop to a supercomputer. Creating containerized and BIDS-aware versions of all of the major neuroimaging analysis packages is critical to our center’s mission: providing data analysis as an free and open service to incentivize researchers to share data.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/report-from-the-first-crn-coding-sprint/</guid><pubDate>Sun, 14 Aug 2016 05:08:00 GMT</pubDate></item><item><title>Alan Turing Institute Symposium on Reproducibility for Data-Intensive Research - full programme</title><link>https://reproduciblescience.org/directory/alan-turing-symposium-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Full programme and speaker biographies for the Alan Turing Institute Symposium on Data-Intensive Research, held 6-7 April 2016&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/alan-turing-symposium-repro/</guid><pubDate>Fri, 10 Jun 2016 05:06:00 GMT</pubDate></item><item><title>"Reproducibility Symposium" -- a recap of NYU's Reproducibility Symposium</title><link>https://reproduciblescience.org/directory/2016-repro-symposium/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Kyle Cranmer, a faculty member in NYU's physics department, distills and describes of the event of NYU's first Reproducibility Symposium on May 3, 2016.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>popular news</category><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/2016-repro-symposium/</guid><pubDate>Tue, 03 May 2016 05:05:00 GMT</pubDate></item><item><title>1st International Workshop on Reproducible Open Science (RepScience2016)</title><link>https://reproduciblescience.org/directory/repscience2016/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This Workshop aims at becoming a forum to discuss ideas and advancements towards the revision of current scientific communication practices in order to support Open Science, introduce novel evaluation schemes, and enable reproducibility. As such it candidates as an event fostering collaboration between (i) Library and information scientists working on the identification of new publication paradigms; (ii) ICT scientists involved in the definition of new technical solutions to these issues; (iii) scientists/researchers who actually conduct the research and demand tools and practices for Open Science. The expected results are advancements in the definition of the next generation scientific communication ecosystem, where scientists can publish research results (including the scientific article, the data, the methods, and any “alternative” product that may be relevant to the conducted research) in order to enable reproducibility (effective reuse and decrease of cost of science) and rely on novel scientific reward practices.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/repscience2016/</guid><pubDate>Fri, 29 Apr 2016 05:04:00 GMT</pubDate></item><item><title>The Quest for Reproducible Science: Issues in Research Transparency and Integrity</title><link>https://reproduciblescience.org/directory/alcts-reproducible-science/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A pre-conference event of the American Library Association's annual conference: "The credibility of scientific findings is under attack. While this crisis has several causes, none is more common or correctable than the inability to replicate experimental and computational research. This preconference will feature scholars, librarians, and technologists who are attacking this problem through tools and techniques to manage data, enable research transparency, and promote reproducible science. Attendees will learn strategies for fostering and supporting transparent research practices at their institutions."&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility conference</category><guid>https://reproduciblescience.org/directory/alcts-reproducible-science/</guid><pubDate>Wed, 09 Mar 2016 05:03:00 GMT</pubDate></item></channel></rss>

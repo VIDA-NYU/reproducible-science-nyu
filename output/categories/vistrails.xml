@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about VisTrails)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/vistrails.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Automatic Benchmark Profiling through Advanced Trace Analysis</title><link>https://reproduciblescience.org/directory/auto-benchmark-trace-analysis/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Benchmarking has proven to be crucial for the investigation of the behavior and performances of a system. However, the choice of relevant benchmarks still remains a challenge. To help the process of comparing and choosing among benchmarks, we propose a solution for automatic benchmark profiling. It computes unified benchmark profiles reflecting benchmarks’ duration, function repartition, stability, CPU efficiency, parallelization and memory usage. It identifies the needed system information for profile computation, collects it from execution traces and produces profiles through efficient and reproducible trace analysis treatments. The paper presents the design, implementation and the evaluation of the approach. The analysis of the kernel trace follows a workflow implemented using the VisTrails tool.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>VisTrails</category><guid>https://reproduciblescience.org/directory/auto-benchmark-trace-analysis/</guid><pubDate>Thu, 24 Mar 2016 05:03:00 GMT</pubDate></item><item><title>SIGMOD Repeatability Effort</title><link>https://reproduciblescience.org/directory/repeatability-sigmod/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;As part of this project, in collaboration with Philippe Bonnet, we are using (and extending) our infrastructure to support the SIGMOD Repeatability effort. Below are some case studies that illustrate how authors can create provenance-rich and reproducible papers, and how reviewers can both reproduce the experiments and perform workability tests: packaging an experiment on a distributed database system (link in title).&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>case studies</category><category>reproducibility infrastructure</category><category>reproducible paper</category><category>VisTrails</category><guid>https://reproduciblescience.org/directory/repeatability-sigmod/</guid><pubDate>Sun, 01 Jan 2012 05:01:00 GMT</pubDate></item><item><title>Galois Conjugates of Topological Phases</title><link>https://reproduciblescience.org/directory/galois-topological-phases/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible paper</category><category>VisTrails</category><guid>https://reproduciblescience.org/directory/galois-topological-phases/</guid><pubDate>Thu, 16 Jun 2011 05:06:00 GMT</pubDate></item><item><title>The ALPS Project Release 2.0: Open Source Software for Strongly Correlated Systems</title><link>https://reproduciblescience.org/directory/alps-release/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Professor Matthias Troyer (ETH Zurich) and his collaborators have published a number of papers whose results are fully reproducible. He is using VisTrails to both carry out the experiments and to package them for publication.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible paper</category><category>VisTrails</category><guid>https://reproduciblescience.org/directory/alps-release/</guid><pubDate>Mon, 23 May 2011 05:05:00 GMT</pubDate></item></channel></rss>

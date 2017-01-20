@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about reproducible journal)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/reproducible-journal.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introduction to the special issue on recentering science: Replication, robustness, and reproducibility in psychophysiology</title><link>https://reproduciblescience.org/directory/intro-special-issue-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;In recent years, the psychological and behavioral sciences have increased efforts to strengthen methodological practices and publication standards, with the ultimate goal of enhancing the value and reproducibility of published reports. These issues are especially important in the multidisciplinary field of psychophysiology, which yields rich and complex data sets with a large number of observations. In addition, the technological tools and analysis methods available in the field of psychophysiology are continually evolving, widening the array of techniques and approaches available to researchers. This special issue presents articles detailing rigorous and systematic evaluations of tasks, measures, materials, analysis approaches, and statistical practices in a variety of subdisciplines of psychophysiology. These articles highlight challenges in conducting and interpreting psychophysiological research and provide data-driven, evidence-based recommendations for overcoming those challenges to produce robust, reproducible results in the field of psychophysiology.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/intro-special-issue-repro/</guid><pubDate>Tue, 20 Dec 2016 05:12:00 GMT</pubDate></item><item><title>Reproducible Risk Assessment</title><link>https://reproduciblescience.org/directory/reproducible-risk-assessment/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Reproducible research is a concept that has emerged in data and computationally intensive sciences in which the code used to conduct all analyses, including generation of publication quality figures, is directly available, and preferably in open source manner. This perspective outlines the processes and attributes, and illustrates the execution of reproducible research via a simple exposure assessment of air pollutants in metropolitan Philadelphia.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/reproducible-risk-assessment/</guid><pubDate>Sun, 20 Nov 2016 05:11:00 GMT</pubDate></item><item><title>Reinventing the Methods Journal: Increasing Reproducibility with Video Journals</title><link>https://reproduciblescience.org/directory/reinvent-methods-journal/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The way science journals present research must be rehabilitated or risk becoming obsolete, causing foreseeable negative consequences to research funding and pro-ductivity.  Researchers are dealing with ever- increasing complexities, and as techniques and solutions become more involved, so too does the task of describing them.  Unfortunately, simply explaining a technique with text does not always paint a clear enough picture. Scientific publishing has followed essentially the same model since the original scientific journal was published in the mid-seventeenth century. Thanks to advances in technology, we have seen some minor improvements such as the addition of color printing and better dissemination and search functionality through online cataloging.  But what has actually changed?  In truth, not all that much. Articles are still published as text heavy-tomes with the occasional pho-tograph or chart to demonstrate a point.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/reinvent-methods-journal/</guid><pubDate>Tue, 01 Nov 2016 05:11:00 GMT</pubDate></item><item><title>Incentivizing Reproducibility</title><link>https://reproduciblescience.org/directory/incentivizing-reproducibility/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A scientific result is not truly established until it is independently confirmed. This is one of the tenets of experimental science. Yet, we have seen a rash of recent headlines about experimental results that could not be reproduced. In the biomedical field, efforts to reproduce results of academic research by drug companies have had less than a 50% success rate,a resulting in billions of dollars in wasted effort. In most cases the cause is not intentional fraud, but rather sloppy research protocols and faulty statistical analysis. Nevertheless, this has led to both a loss in public confidence in the scientific enterprise and some serious soul searching within certain fields. Publishers have begun to take the lead in insisting on more careful reporting and review, as well as facilitating government open science initiatives mandating sharing of research data and code. To support efforts of this type, the ACM Publications Board recently approved a new policy on Result and Artifact Review and Badging. This policy defines two badges ACM will use to highlight papers that have undergone independent verification. Results Replicated is applied when the paper's main results have been replicated using artifacts provided by the author, or Results Reproduced if done completely independently.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/incentivizing-reproducibility/</guid><pubDate>Thu, 06 Oct 2016 05:10:00 GMT</pubDate></item><item><title>MBoC Introduces Author Checklist to Enhance Research Reproducibility</title><link>https://reproduciblescience.org/directory/mboc-introduces-author-checklist-to-enhance-research-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Molecular Biology of the Cell (MBoC) has developed a checklist for authors to help them ensure that their work can be reproduced by others. In so doing, the journal is mboc logofollowing the recommendations in the 2015 whitepaper by the ASCB Reproducibility Task Force. The checklist was developed by a committee of MBoC Editorial Board members chaired by Editor Jean Schwarzbauer and including Associate Editors Rick Fehon, Carole Parent, Greg Matera, Alex Mogilner, and Fred Chang with input from Editor-in-Chief David Drubin and other members of the board.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/mboc-introduces-author-checklist-to-enhance-research-repro/</guid><pubDate>Fri, 02 Sep 2016 05:09:00 GMT</pubDate></item><item><title>Julian Wolfson Named Reproducibility Editor for Leading Statistics Journal</title><link>https://reproduciblescience.org/directory/wolfson-named-repro-editor-asa/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;University of Minnesota School of Public Health Assistant Professor Julian Wolfson was named an associate editor for reproducibility for the Journal of the American Statistical Association (JASA). The appointment is in support of the journal’s new requirement for authors to submit scientific code and data for review along with their papers.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/wolfson-named-repro-editor-asa/</guid><pubDate>Thu, 01 Sep 2016 05:09:00 GMT</pubDate></item><item><title>Cell Press transforms article methods section to improve transparency and accessibility</title><link>https://reproduciblescience.org/directory/cell-methods-section/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Amid discussions around scientific reproducibility, the leading biomedical journal Cell will introduce a redesigned methods section to help authors clearly communicate how experiments are conducted. The first papers using Structured, Transparent, Accessible Reporting (STAR) Methods, which promotes guidelines encouraged by reagent labeling and animal experimentation initiatives, appear in Cell on August 25. The format will then be adopted by other Cell Press journals over the next year, starting with Cell Systems in the fall.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/cell-methods-section/</guid><pubDate>Thu, 25 Aug 2016 05:08:00 GMT</pubDate></item><item><title>It’s a kind of magic: how to improve adherence to reporting guidelines</title><link>https://reproduciblescience.org/directory/improve-guideline-adherence/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Finding a relevant reporting guideline for a study can be very difficult. Here we introduce a pilot experiment starting for some of the BMC-series journals which aims to overcome this issue.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><category>popular news</category><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/improve-guideline-adherence/</guid><pubDate>Fri, 12 Feb 2016 05:02:00 GMT</pubDate></item><item><title>A Proactive Approach to Reproducibility with Evidence-Based Research on Research</title><link>https://reproduciblescience.org/directory/approach-to-repro-evidence-based/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The new Meta-Research Section in PLOS Biology is not the only example of how PLOS strives to improve the scientific endeavor through innovative communication efforts. PLOS has always recognized that publication of studies that reproduce published work or null results, either confirming or refuting the original result, is essential for progress in research. In fact, the largest journal at PLOS, PLOS ONE, is one of only a handful of publications that actively encourage these types of submissions with The Missing Pieces Collection.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/approach-to-repro-evidence-based/</guid><pubDate>Wed, 06 Jan 2016 05:01:00 GMT</pubDate></item><item><title>Reproducibility Project Named Among Top Scientific Achievements of 2015</title><link>https://reproduciblescience.org/directory/repro-proj-among-top-sci-achievements/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The journal Science has named a major attempt to replicate 100 papers published in top-tier psychology journals as one of the "breakthroughs of the year" for 2015.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>replication study</category><category>reproducible journal</category><guid>https://reproduciblescience.org/directory/repro-proj-among-top-sci-achievements/</guid><pubDate>Tue, 05 Jan 2016 05:01:00 GMT</pubDate></item></channel></rss>

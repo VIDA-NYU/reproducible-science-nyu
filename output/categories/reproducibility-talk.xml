@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about reproducibility talk)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/reproducibility-talk.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Research Quality Assurance: A Strategy for Improving Research Reproducibility</title><link>https://reproduciblescience.org/directory/research-quality-assurance/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A poster by Rebecca Davies in the field of Veterinary Medicine.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/research-quality-assurance/</guid><pubDate>Tue, 24 May 2016 05:05:00 GMT</pubDate></item><item><title>Webinar@AIMS Increasing Openness and Reproducibility in Agricultural Research</title><link>https://reproduciblescience.org/directory/increasing-openness-repro-agricultural-research/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;There are many actions researchers can take to increase the openness and reproducibility of their work. This introductory webinar from the Center for Open Science is aimed at faculty, staff, and students involved in agricultural research. Participants will gain a foundation for incorporating reproducible, transparent practices into their current workflows.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/increasing-openness-repro-agricultural-research/</guid><pubDate>Thu, 19 May 2016 05:05:00 GMT</pubDate></item><item><title>Transparency and Reproducibility in Economics Research</title><link>https://reproduciblescience.org/directory/transparency-and-repro-economics-research/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;There is growing interest in research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread problems in the discipline. We next discuss recent progress in this area, including improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, and draw on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices as well as approaches that remain controversial and speculate about the most effective ways to make economics research more accurate, credible, and reproducible in the future.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/transparency-and-repro-economics-research/</guid><pubDate>Fri, 22 Apr 2016 05:04:00 GMT</pubDate></item><item><title>ReproZip Demo Accepted at SIGMOD 2016</title><link>https://reproduciblescience.org/directory/reprozip-demo-sigmod16/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A ReproZip demo has been accepted at SIGMOD 2016: "ReproZip: Computational Reproducibility With Ease." F. Chirigati, R. Rampin, D. Shasha, and J. Freire.
+
+Shape Modeling International (SMI 2016) Introduces Reproducibility Award
+http://www.geometrysummit.org/smi2016/index.html
+2016-02-29
+reproducibility conference
+This year, also SMI will introduce an Award for Reproducibility to be granted to authors of accepted papers who are willing to provide a complete open-source implementation of their algorithm. The reproducibility stamp does not affect the reviewing process or the requirements for your submission to be accepted. The awarded papers will receive an additional 5 to 10 minutes in their presentation to give a live demo and will be recognized during the SMI closing ceremony. More information on the web site soon.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility infrastructure</category><category>reproducibility talk</category><category>ReproZip</category><guid>https://reproduciblescience.org/directory/reprozip-demo-sigmod16/</guid><pubDate>Sat, 27 Feb 2016 05:02:00 GMT</pubDate></item><item><title>BioPolicy Summit tackles reproducibility of science issues</title><link>https://reproduciblescience.org/directory/biopolicy-summit-tackles-repro-issues/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The 2016 GBSI Summit—"Research Reproducibility: Innovative Solutions to Drive Quality" welcomed premiere life science thought leaders, including Arizona State University biomarker researcher Joshua LaBaer, MD, PhD, and science correspondent and moderator Richard Harris (currently on leave from National Public Radio as a visiting scholar this spring at Arizona State University), to explore the driving forces and profound impacts behind the issues.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><category>reproducibility conference</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/biopolicy-summit-tackles-repro-issues/</guid><pubDate>Fri, 12 Feb 2016 05:02:00 GMT</pubDate></item><item><title>A Noob's Guide to Reproducibility</title><link>https://reproduciblescience.org/directory/repro-noob-guide/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A presentation by Philip B. Stark of University of California at Berkeley that gives a great 101-style look into what the everyday researcher can do to make their science more reproducible.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility guidelines</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/repro-noob-guide/</guid><pubDate>Wed, 10 Feb 2016 05:02:00 GMT</pubDate></item><item><title>Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing</title><link>https://reproduciblescience.org/directory/co-founder-of-center-for-scientific-integrity-speaks-issues-in-scholcomm/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Adam Marcus, cofounder of Retraction Watch and the Center for Scientific Integrity, will give a free lecture about issues in scholarly science publishing at 4 p.m. Friday, Feb. 19, in 103 Reid Hall at Montana State University.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/co-founder-of-center-for-scientific-integrity-speaks-issues-in-scholcomm/</guid><pubDate>Fri, 05 Feb 2016 05:02:00 GMT</pubDate></item><item><title>GBSI Doubles Down on Research Reproducibility at Annual BioPolicy Summit and Webcast in Washington, DC, February 9th</title><link>https://reproduciblescience.org/directory/gbsi-doubles-down-on-research-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The Summit will also introduce GBSI’s Reproducibility2020, an action plan for the biomedical research community to significantly improve the quality of research by 2020 targeting: 1) improved validation and standardization of biological reagents; 2) better tools and technologies to expand open access for reporting and sharing protocols and data; and 3) increased training that emphasizes rigorous study design and practice.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><category>reproducibility conference</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/gbsi-doubles-down-on-research-repro/</guid><pubDate>Wed, 27 Jan 2016 05:01:00 GMT</pubDate></item><item><title>Reproducibility from a Mostly Selfish Point of View</title><link>https://reproduciblescience.org/directory/repro-selfish-pov/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A talk given by Noam Ross: "Why was, as the title suggests, primarily focused on the benefits of reproducibility to us, and I proceeded from avoiding negatives (risk avoidance) to creating positives (more impact). In How I tried to be very high-level, talking about major concepts in reproducibility, and then talking generally about the tools that I have used for each, emphasizing that they may not be the right tools for everyone. Then we had a discussion about the most promising areas and tools to start with."&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><category>popular news</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/repro-selfish-pov/</guid><pubDate>Wed, 27 Jan 2016 05:01:00 GMT</pubDate></item><item><title>ReproZip Poster Accepted at FORCE2016</title><link>https://reproduciblescience.org/directory/reprozip-force2016/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Fernando Chirigati and Remi Rampin's poster "Enhancing Scholarly Communication with ReproZip" was recently accepted at FORCE2016, a conference from FORCE11 a community of scholars, librarians, archivists, publishers and research funders that has arisen organically to help facilitate the change toward improved knowledge creation and sharing.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility infrastructure</category><category>reproducibility talk</category><category>ReproZip</category><guid>https://reproduciblescience.org/directory/reprozip-force2016/</guid><pubDate>Wed, 27 Jan 2016 05:01:00 GMT</pubDate></item></channel></rss>

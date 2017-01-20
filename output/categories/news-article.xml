@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about news article)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/news-article.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cancer reproducibility project releases first results</title><link>https://reproduciblescience.org/directory/cancer-repro-project-results/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The Reproducibility Project: Cancer Biology launched in 2013 as an ambitious effort to scrutinize key findings in 50 cancer papers published in Nature, Science, Cell and other high-impact journals. It aims to determine what fraction of influential cancer biology studies are probably sound — a pressing question for the field. In 2012, researchers at the biotechnology firm Amgen in Thousand Oaks, California, announced that they had failed to replicate 47 of 53 landmark cancer papers2. That was widely reported, but Amgen has not identified the studies involved.&lt;/p&gt;
+
+  </description><category>news article</category><category>reproducible paper</category><guid>https://reproduciblescience.org/directory/cancer-repro-project-results/</guid><pubDate>Wed, 18 Jan 2017 22:51:50 GMT</pubDate></item><item><title>Scientific papers need better feedback systems. Here's why</title><link>https://reproduciblescience.org/directory/scientific-papers-better-feedback/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Somewhere between 65 and 90 per cent of biomedical literature is considered non-reproducible. This means that if you try to reproduce an experiment described in a given paper, 65 to 90 per cent of the time you won't get the same findings. We call this the reproducibility crisis. The issue became live thanks to a study by Glenn Begley, who ran the oncology department at Amgen, a pharmaceutical company. In 2011, Begley decided to try to reproduce findings in 53 foundational papers in oncology: highly cited papers published in the top journals. He was unable to reproduce 47 of them - 89 per cent.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/scientific-papers-better-feedback/</guid><pubDate>Sun, 08 Jan 2017 22:51:50 GMT</pubDate></item><item><title>Lack of reproducibility triggers retractions of Nature Materials articles</title><link>https://reproduciblescience.org/directory/lack-repro-triggers-retractions/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The authors of a highly cited 2015 paper in Nature Materials have retracted it, after being unable to reproduce some of the key findings. We’ve seen this kind of thing before, from another Nature journal, although in one case the News &amp;amp; Views article only earned a warning notice.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/lack-repro-triggers-retractions/</guid><pubDate>Wed, 28 Dec 2016 05:12:00 GMT</pubDate></item><item><title>Enabling access to reproducible research</title><link>https://reproduciblescience.org/directory/enabling-access-repro-research/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;A team of Web and Internet Science (WAIS) researchers, from Electronics and Computer Science at Southampton, has been working with statistical colleagues at the Centre for Multilevel Modelling, University of Bristol, to develop new software technology that allows UK students and young researchers to access reproducible statistical research.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/enabling-access-repro-research/</guid><pubDate>Mon, 19 Dec 2016 05:12:00 GMT</pubDate></item><item><title>Could Critical Incident Reporting Fix Preclinical Research?</title><link>https://reproduciblescience.org/directory/critical-incident-reporting/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Scientists propose a modified critical incident reporting system to help combat the reproducibility crisis.When Dirnagl first considered that his lab might benefit from a formal incident reporting system, he was surprised to find that no such system existed for biomedical researchers. Other high-stakes fields, from clinical medicine to nuclear power research, have long had such systems in place, but for the preclinical space, "we had to create one, because there’s nothing like it," Dirnagl said. But once Dirnagl and colleagues introduced an anonymous, online system, people began submitting reports. At meetings, the team would discuss what had gone wrong and strategize how to fix it. After a short while, Dirnagl said, his team began voluntarily filing virtually all reports with their signatures on them.&lt;/p&gt;
+
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/critical-incident-reporting/</guid><pubDate>Sun, 11 Dec 2016 05:12:00 GMT</pubDate></item><item><title>Reproducibility Crisis Timeline: Milestones in Tackling Research Reliability</title><link>https://reproduciblescience.org/directory/repro-crisis-timeline-milestone/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;It’s not a new story, although "the reproducibility crisis" may seem to be. For life sciences, I think it started in the late 1950s. Problems caused in clinical research burst into the open in a very public way then. But before we get to that, what is "research reproducibility"? It’s a euphemism for unreliable research or research reporting. Steve Goodman and colleagues (2016) say 3 dimensions of science that affect reliability are at play: Methods reproducibility – enough detail available to enable a study to be repeated; Results reproducibility – the findings are replicated by others; Inferential reproducibility – similar conclusions are drawn about results, which brings statistics and interpretation squarely into the mix. There is a lot of history behind each of those. Here are some of the milestones in awareness and proposed solutions that stick out for me.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/repro-crisis-timeline-milestone/</guid><pubDate>Mon, 05 Dec 2016 05:12:00 GMT</pubDate></item><item><title>NIH-Wide Policy Doubles Down on Scientific Rigor and Reproducibility</title><link>https://reproduciblescience.org/directory/nih-wide-policy-doubles-down-on-sci-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The US National Institutes of Health (NIH) is now assessing all research grant submissions based on the rigor and transparency of the proposed research plans. Previously, efforts to strengthen scientific practices had been undertaken by individual institutes, beginning in 2011 with the National Institute on Aging, which partnered with APS and the NIH Office of Behavioral and Social Science Research to begin a conversation about improving reproducibility across science. These early efforts were noted and encouraged by Congress. Now, the entire agency has committed to this important goal: NIH's 2016–2020 strategic plan announces, "NIH will take the lead in promoting new approaches toward enhancing the rigor of experimental design, analysis, and reporting."&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/nih-wide-policy-doubles-down-on-sci-repro/</guid><pubDate>Fri, 02 Dec 2016 05:12:00 GMT</pubDate></item><item><title>Student teams take on synbio reproducibility problem</title><link>https://reproduciblescience.org/directory/student-teams-take-on-synbio-repro-problem/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Well, over the last two years iGEM teams around the world have been working to find out just how reproducible fluorescent proteins measurements are. They distributed testing plasmids and compared results across labs, measurement instruments, genetic parts, and E. coli strains.  It’s a thorough 2 year study of interlab variability, and the results are out in PLOS ONE, “Reproducibility of Fluorescent Expression from Engineered Biological Constructs in E. coli“.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/student-teams-take-on-synbio-repro-problem/</guid><pubDate>Sat, 19 Nov 2016 05:11:00 GMT</pubDate></item><item><title>A Year of Reproducibility Initiatives: The Replication Revolution Forges Ahead</title><link>https://reproduciblescience.org/directory/year-of-repro-initiatives-the-replication-revolution/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Adhering faithfully to the scientific method is at the very heart of psychological inquiry. It requires scientists to be passionately dispassionate, to be intensely interested in scientific questions but not wedded to the answers. It asks that scientists not personally identify with their past work or theories — even those that bear their names — so that science as a whole can inch ever closer to illuminating elusive truths. That compliance isn’t so easy. But those who champion the so-called replication revolution in psychological science believe that it is possible — with the right structural reforms and personal incentives.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/year-of-repro-initiatives-the-replication-revolution/</guid><pubDate>Fri, 14 Oct 2016 05:10:00 GMT</pubDate></item><item><title>Reproducibility: Seek out stronger science</title><link>https://reproduciblescience.org/directory/seek-stronger-science/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;When graduate student Alyssa Ward took a science-policy internship, she expected to learn about policy — not to unearth gaps in her biomedical training. She was compiling a bibliography about the reproducibility of experiments, and one of the papers, a meta-analysis, found that scientists routinely fail to explain how they choose the number of samples to use in a study. "My surprise was not about the omission — it was because I had no clue how, or when, to calculate sample size," Ward says. Nor had she ever been taught about major categories of experimental design, or the limitations of P values. (Although they can help to judge the strength of scientific evidence, P values do not — as many think — estimate the likelihood that a hypothesis is true.)&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>news article</category><guid>https://reproduciblescience.org/directory/seek-stronger-science/</guid><pubDate>Wed, 05 Oct 2016 05:10:00 GMT</pubDate></item></channel></rss>

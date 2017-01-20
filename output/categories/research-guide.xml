@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about research guide)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/research-guide.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reproducibility of Research Guide by the Eccles Health Sciences Library (EHSL) at University of Utah</title><link>https://reproduciblescience.org/directory/repro-libguide-utah/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This LibGuide from the University of Utah outlines some first steps, tutorials, and toolkits related to making research reproducible, with a strong focus on quantitative and computational research.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>research guide</category><guid>https://reproduciblescience.org/directory/repro-libguide-utah/</guid><pubDate>Tue, 01 Mar 2016 05:03:00 GMT</pubDate></item><item><title>Friday: Reusing Data and Making Your Data Reusable</title><link>https://reproduciblescience.org/directory/lyd16-reuse-data/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This blog post is apart of the Love Your Data campaign #LYD16, a global and cross-institution awareness campaign for open data, research reproducibility, and research data management. This post features ReproMatch and ReproZip as important tools for achieving reproducibility.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>ReproZip</category><category>research guide</category><guid>https://reproduciblescience.org/directory/lyd16-reuse-data/</guid><pubDate>Fri, 12 Feb 2016 05:02:00 GMT</pubDate></item><item><title>Research Reproducibility 2016</title><link>https://reproduciblescience.org/directory/research-reproducibility-2016/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This is a guide from Stanford University outlining methodology, tools, and resources for increasing reproducibility in science.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>research guide</category><guid>https://reproduciblescience.org/directory/research-reproducibility-2016/</guid><pubDate>Fri, 12 Feb 2016 05:02:00 GMT</pubDate></item></channel></rss>

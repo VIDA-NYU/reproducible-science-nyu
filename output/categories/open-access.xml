@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about open access)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/open-access.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Reward, reproducibility and recognition in research – the case for going Open</title><link>https://reproduciblescience.org/directory/reward-recog-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The advent of the internet has meant that scholarly communication has changed immeasurably over the past two decades but in some ways it has hardly changed at all. The coin in the realm of any research remains the publication of novel results in a high impact journal – despite known issues with the Journal Impact Factor. This elusive goal has led to many problems in the research process: from hyperauthorship to high levels of retractions, reproducibility problems and 'cherry picking' of results. The veracity of the academic record is increasingly being brought into question. An additional problem is this static reward systems binds us to the current publishing regime, preventing any real progress in terms of widespread open access or even adoption of novel publishing opportunities. But there is a possible solution. Increased calls to open research up and provide a greater level of transparency have started to yield practical real solutions. This talk will cover the problems we currently face and describe some of the innovations that might offer a way forward.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><guid>https://reproduciblescience.org/directory/reward-recog-repro/</guid><pubDate>Sat, 05 Nov 2016 05:11:00 GMT</pubDate></item><item><title>Scientific Data Science and the Case for Open Access</title><link>https://reproduciblescience.org/directory/sci-data-open-access/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;"Open access" has become a central theme of journal reform inacademic publishing. In this article, Iexamine the consequences of an important technological loophole in which publishers can claim to be adhering to the principles of open access by releasing articles in proprietary or “locked” formats that cannot be processed by automated tools, whereby even simple copy and pasting of text is disabled. These restrictions will prevent the development of an important infrastructural element of a modern research enterprise, namely,scientific data science, or the use of data analytic techniques to conduct meta-analyses and investigations into the scientific corpus. I give a brief history of the open access movement, discuss novel journalistic practices, and an overview of data-driven investigation of the scientific corpus. I arguethat particularly in an era where the veracity of many research studies has been called into question, scientific data science should be oneof the key motivations for open access publishing. The enormous benefits of unrestricted access to the research literature should prompt scholars from all disciplines to reject publishing models whereby articles are released in proprietary formats or are otherwise restricted from being processed by automated tools as part of a data science pipeline.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>data science</category><category>open access</category><guid>https://reproduciblescience.org/directory/sci-data-open-access/</guid><pubDate>Sat, 05 Nov 2016 05:11:00 GMT</pubDate></item><item><title>In dramatic statement, European leaders call for ‘immediate’ open access to all scientific papers by 2020</title><link>https://reproduciblescience.org/directory/euro-leaders-call-immediate-open-access-all-scientific-papers/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;In what European science chief Carlos Moedas calls a "life-changing" move, E.U. member states today agreed on an ambitious new open-access (OA) target. All scientific papers should be freely available by 2020, the Competitiveness Council—a gathering of ministers of science, innovation, trade, and industry—concluded after a 2-day meeting in Brussels. But some observers are warning that the goal will be difficult to achieve.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><guid>https://reproduciblescience.org/directory/euro-leaders-call-immediate-open-access-all-scientific-papers/</guid><pubDate>Sat, 30 Jul 2016 05:07:00 GMT</pubDate></item><item><title>Unconditional data sharing, plus peer review transparency, is key to research reproducibility</title><link>https://reproduciblescience.org/directory/uncondit-data-sharing-peer-review-transparency-key-to-research-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Only mandatory Open Data, not Gold Open Access, will lead to more honest and more reproducible science. Open Science is these days largely about mandatory publishing in Open Access (OA), regardless of the costs to poorer scientists or the universities which already struggle to pay horrendous subscription fees. Meanwhile, publishers openly declare that the so-called Gold (author-pays) OA will be much more expensive than even current subscription rates, yet wealthy western institutions like the Dutch university network VSNU or the German Max Planck Society do not seem troubled by this at all. They seriously expect the publishing oligopoly of Elsevier, SpringerNature and Wiley to lower the costs for Gold OA later on, out of the goodness of their hearts (as this winter’s invitation-only Berlin12 OA conference suggests).&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><category>popular news</category><guid>https://reproduciblescience.org/directory/uncondit-data-sharing-peer-review-transparency-key-to-research-repro/</guid><pubDate>Thu, 28 Apr 2016 05:04:00 GMT</pubDate></item><item><title>Co-founder of Center for Scientific Integrity speaks Feb. 19 about issues in scholarly publishing</title><link>https://reproduciblescience.org/directory/co-founder-of-center-for-scientific-integrity-speaks-issues-in-scholcomm/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Adam Marcus, cofounder of Retraction Watch and the Center for Scientific Integrity, will give a free lecture about issues in scholarly science publishing at 4 p.m. Friday, Feb. 19, in 103 Reid Hall at Montana State University.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><category>reproducibility talk</category><guid>https://reproduciblescience.org/directory/co-founder-of-center-for-scientific-integrity-speaks-issues-in-scholcomm/</guid><pubDate>Fri, 05 Feb 2016 05:02:00 GMT</pubDate></item><item><title>Open-Access Deal for Particle Physics</title><link>https://reproduciblescience.org/directory/open-access-particle-physics/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The entire field of particle physics is set to switch to open-access publishing, a milestone in the push to make research results freely available to readers.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><guid>https://reproduciblescience.org/directory/open-access-particle-physics/</guid><pubDate>Mon, 24 Sep 2012 05:09:00 GMT</pubDate></item><item><title>The Legal Framework for Reproducible Scientific Research: Licensing and Copyright</title><link>https://reproduciblescience.org/directory/legal-framework-repro-sci/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The code, data structures, experimental design and parameters, documentation, and figures are all important for scholarship communication and result replication. The author proposes the reproducible research standard for scientific researchers to use for all components of their scholarship that should encourage reproducible scientific investigation through attribution, facilitate greater collaboration, and promote engagement of the larger community in scientific learning and discovery.&lt;/p&gt;
+
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>open access</category><guid>https://reproduciblescience.org/directory/legal-framework-repro-sci/</guid><pubDate>Thu, 01 Jan 2009 05:01:00 GMT</pubDate></item></channel></rss>

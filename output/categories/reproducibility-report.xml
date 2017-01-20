@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Reproducible Science (Posts about reproducibility report)</title><link>https://reproduciblescience.org/</link><description></description><atom:link rel="self" type="application/rss+xml" href="https://reproduciblescience.org/categories/reproducibility-report.xml"></atom:link><language>en</language><lastBuildDate>Fri, 20 Jan 2017 17:16:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A Survey of Current Reproducibility Practices in Linguistics Publications</title><link>https://reproduciblescience.org/directory/repro-survey-linguistics/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This project considers the role of reproducibility in increasing verification and accountability in linguistic research. An analysis of over 370 journal articles, dissertations, and grammars from a ten-year span is taken as a sample of current practices in the field. These are critiqued on the basis of transparency of data source, data collection methods, analysis, and storage. While we find examples of transparent reporting, much of the surveyed research does not include key metadata, methodological information, or citations that are resolvable to the data on which the analyses are based. This has implications for reproducibility and hence accountability, hallmarks of social science research which are currently under-represented in linguistic research.&lt;/p&gt;
+
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/repro-survey-linguistics/</guid><pubDate>Wed, 18 Jan 2017 22:51:50 GMT</pubDate></item><item><title>A manifesto for reproducible science</title><link>https://reproduciblescience.org/directory/manifesto-reproducible-science/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Improving the reliability and efficiency of scientific research will increase the credibility of the published scientific literature and accelerate discovery. Here we argue for the adoption of measures to optimize key elements of the scientific process: methods, reporting and dissemination, reproducibility, evaluation and incentives. There is some evidence from both simulations and empirical studies supporting the likely effectiveness of these measures, but their broad adoption by researchers, institutions, funders and journals will require iterative evaluation and improvement. We discuss the goals of these measures, and how they can be implemented, in the hope that this will facilitate action toward improving the transparency, reproducibility and efficiency of scientific research.&lt;/p&gt;
+
+  </description><category>reproducibility report</category><category>reproducible paper</category><guid>https://reproduciblescience.org/directory/manifesto-reproducible-science/</guid><pubDate>Tue, 10 Jan 2017 22:51:50 GMT</pubDate></item><item><title>Transparency, Reproducibility, and the Credibility of Economics Research</title><link>https://reproduciblescience.org/directory/transparency-repro-ecnomics/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;There is growing interest in enhancing research transparency and reproducibility in economics and other scientific fields. We survey existing work on these topics within economics, and discuss the evidence suggesting that publication bias, inability to replicate, and specification searching remain widespread in the discipline. We next discuss recent progress in this area, including through improved research design, study registration and pre-analysis plans, disclosure standards, and open sharing of data and materials, drawing on experiences in both economics and other social sciences. We discuss areas where consensus is emerging on new practices, as well as approaches that remain controversial, and speculate about the most effective ways to make economics research more credible in the future.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/transparency-repro-ecnomics/</guid><pubDate>Thu, 22 Dec 2016 05:12:00 GMT</pubDate></item><item><title>The research data reproducibility problem solicits a 21st century solution</title><link>https://reproduciblescience.org/directory/research-data-repro-problems/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Reproducibility is a hallmark of scientific efforts. Estimates indicate that lack of reproducibility of data ranges from 50% to 90% among published research reports. The inability to reproduce major findings of published data confounds  new discoveries, and importantly, result in wastage of limited resources in the futile effort to build on these published reports. This poses a challenge to the research community to change the way we approach reproducibility by developing new tools to help progress the reliability of methods and materials we use in our trade.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/research-data-repro-problems/</guid><pubDate>Sat, 05 Nov 2016 05:11:00 GMT</pubDate></item><item><title>Introduction: The Challenge of Reproducibility</title><link>https://reproduciblescience.org/directory/intro-challenges-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Science progresses by an iterative process whereby discoveries build upon a foundation of established facts and principles. The integrity of the advancement of knowledge depends crucially on the reliability and reproducibility of our published results. Although mistakes and falsification of results have always been an unfortunate part of the process, most viewed scientific research as self-correcting; the incorrect results and conclusions would inevitably be challenged and replaced with more reliable information. But what happens if the process is corrupted by systematic errors brought about by the misapplication of statistics, the use of unreliable reagents and inappropriate cell models, and the pressure to publish in the most selective venues? We may be facing this scenario now in areas of biomedical science in which claims have been made that a majority of the most important work in, for example, cancer biology is not reproducible in the hands of drug companies that would seek to rely on the biomedical literature for opportunities in drug discovery.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/intro-challenges-repro/</guid><pubDate>Sat, 15 Oct 2016 05:10:00 GMT</pubDate></item><item><title>ASM Addresses the Reproducibility Crisis in New Academy Report</title><link>https://reproduciblescience.org/directory/asm-addresses-the-repro-crisis-in-new-academy-report/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;"Promoting Responsible Scientific Research" is the title of a new report just released by the American Academy of Microbiology, a component of ASM. It grew out of an Academy colloquium held last October to tackle an issue that is unfortunately becoming well known both inside and outside scientific circles—the lack of rigor in science. I am delighted that the Academy and ASM are taking on this difficult issue and am grateful to all the participants, the Academy steering committee, and especially to Dr. Arturo Casadevall of Johns Hopkins University, who chaired the colloquium.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/asm-addresses-the-repro-crisis-in-new-academy-report/</guid><pubDate>Tue, 30 Aug 2016 05:08:00 GMT</pubDate></item><item><title>Reproducibility in Chemical Research</title><link>https://reproduciblescience.org/directory/repro-chem/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;Reproducibility is a defining feature of science. Lately, however, serious concerns have been raised regarding the extent to which the results of research, especially biomedical research, are easily replicated. In this Editorial, we discuss to what extent reproducibility is a significant issue in chemical research and then suggest steps to minimize problems involving irreproducibility in chemistry.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/repro-chem/</guid><pubDate>Thu, 25 Aug 2016 05:08:00 GMT</pubDate></item><item><title>CERN Analysis Preservation: A Novel Digital Library Service to Enable Reusable and Reproducible Research</title><link>https://reproduciblescience.org/directory/cern-digital-lib-repro-research/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;The latest policy developments require immediate action for data preservation, as well as reproducible and Open Science. To address this, an unprecedented digital library service is presented to enable the High-Energy Physics community to preserve and share their research objects (such as data, code, documentation, notes) throughout their research process. While facing the challenges of a “big data” community, the internal service builds on existing internal databases to make the process as easy and intrinsic as possible for researchers. Given the “work in progress” nature of the objects preserved, versioning is supported. It is expected that the service will not only facilitate better preservation techniques in the community, but will foremost make collaborative research easier as detailed metadata and novel retrieval functionality provide better access to ongoing works. This new type of e-infrastructure, fully integrated into the research workflow, could help in fostering Open Science practices across disciplines.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/cern-digital-lib-repro-research/</guid><pubDate>Thu, 18 Aug 2016 05:08:00 GMT</pubDate></item><item><title>可重复性与开放科学在中国（Reproducibility and Open Science in China ）</title><link>https://reproduciblescience.org/directory/repro-in-china/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;This project aimed at promoting the awareness of replication crisis and related issues in China. It will be a Public Project to record resources for Reproducibility and Open Science in Chinese.&lt;/p&gt;
+
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/repro-in-china/</guid><pubDate>Mon, 25 Jul 2016 05:07:00 GMT</pubDate></item><item><title>1,500 scientists lift the lid on reproducibility</title><link>https://reproduciblescience.org/directory/1500-scientists-lift-the-lid-on-repro/</link><dc:creator>NYU Reproducibility Working Group</dc:creator><description>&lt;p&gt;More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.&lt;/p&gt;
+
+&lt;!-- Bootstrap core JavaScript
+    ================================================== --&gt;
+    &lt;!-- Placed at the end of the document so the pages load faster --&gt;
+    &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src="../../assets/js/vendor/jquery.min.js"&gt;&lt;\/script&gt;')&lt;/script&gt;
+    &lt;script src="https://reproduciblescience.org/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;!-- IE10 viewport hack for Surface/desktop Windows 8 bug --&gt;
+    &lt;script src="https://reproduciblescience.org/js/ie10-viewport-bug-workaround.js"&gt;&lt;/script&gt;
+  </description><category>reproducibility report</category><guid>https://reproduciblescience.org/directory/1500-scientists-lift-the-lid-on-repro/</guid><pubDate>Wed, 25 May 2016 05:05:00 GMT</pubDate></item></channel></rss>
