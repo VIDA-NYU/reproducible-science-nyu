@@ -667,9 +667,6 @@ body p {
   font-size:1.1em;
 }
 
-body a {
-  color: black;
-}
 
 /* --------------------Footer Links--------------------------*/
 #footer a {
@@ -702,6 +699,10 @@ body a {
 /* --------------------Index Page for Directory Color Changes--------------------------*/
 .entry-title a {
   color:#2780e3;
+}
+
+.e-content .entry-content > a {
+  text-decoration: underline;
 }
 
 .metadata a {

@@ -14,8 +14,8 @@ ${template_hooks['extra_head']()}
 <div class="container" id="content" role="main">
 
 <div class="page-header">
-	<img class="logo-header" src=" /images/logo.png">
-	<h1>Reproducible Science <small>Promoting Open Science</small></h1>
+	
+	<h1><img class="logo-header" src=" /images/logo.png"> Reproducible Science @ NYU <br/><small>Reproducibility & Open Science Working Group at NYU</small></h1>
 
 <!-- Menubar -->
 <nav class="navbar navbar-inverse">
@@ -47,16 +47,6 @@ ${template_hooks['extra_head']()}
             %endif
 
             <ul class="nav navbar-nav navbar-right">
-		<!--dropdown-->
-	      <li class="dropdown">
-		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reproducibility Initiatives<span class="caret"></span></a>
-		<ul class="dropdown-menu">
-			<li><a href="https://reproduciblescience.org/nyu/">Reproducibility @ NYU</a></li>
-			 <li><a href="http://escience.washington.edu/about-us/working-groups/reproducibility-and-open-science/">Reproducibility @ UW</a></li>
-			<li><a href="http://bids.berkeley.edu/working-groups/reproducibility-and-open-science">Reproducibility @ BIDS</a></li>
-		</ul>
-		</li>
-		<!--end dropdown-->
 		<%block name="belowtitle">
                 %if len(translations) > 1:
                     <li>${base.html_translations()}</li>

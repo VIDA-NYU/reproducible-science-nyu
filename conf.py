@@ -18,15 +18,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "NYU Reproducibility Working Group"  # (translatable)
-BLOG_TITLE = "Reproducible Science"  # (translatable)
+BLOG_TITLE = "Reproducible Science @ NYU"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://reproduciblescience.org/"
+SITE_URL = "https://reproduciblescience.org/nyu/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://reproduciblescience.org/"
 BLOG_EMAIL = "vicky.steeves@nyu.edu"
-BLOG_DESCRIPTION = "Promoting Open Science"  # (translatable)
+BLOG_DESCRIPTION = "Reproducibility & Open Science Working Group at NYU"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -135,10 +135,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/who-we-are", "Who We Are"),
-        ("/directory", "Reproducible Resource Directory"),
+        ("/reproducibility-nyu", "About Us"),
+	('/who-we-are', 'People'),
+	('/tools', 'Tools'),
+	('/present-pubs', 'Presentations & Publications'),
+	('/past-events', 'Events'),
     ),
 }
+
 
 # Name of the theme to use.
 THEME = "custom"

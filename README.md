@@ -1,2 +1,2 @@
-# reproducible-science
-Nikola version of https://reproduciblescience.org
+# reproducible-science-nyu
+Nikola version of https://reproduciblescience.org/nyu/
