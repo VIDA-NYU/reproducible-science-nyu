@@ -137,11 +137,18 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/reproducibility-nyu", "About Us"),
 	('/who-we-are', 'People'),
-	('/tools', 'Tools'),
+	((('/tools', 'Overview'),
+             ('/reprozip', 'ReproZip'),
+	     ('/vistrails', 'VisTrails'),
+	     ('/noworkflow', 'NoWorkflow'),
+        ),'Tools'),
 	('/present-pubs', 'Presentations & Publications'),
 	('/past-events', 'Events'),
     ),
 }
+
+
+     
 
 
 # Name of the theme to use.
