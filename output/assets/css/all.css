@@ -1081,6 +1081,7 @@ a.btn.btn-primary{
 .card-img-top {
   border-top-right-radius: calc(0.25rem - 1px);
   border-top-left-radius: calc(0.25rem - 1px);
+  max-width: 100%; !important
 }
 
 .card-img-bottom {
@@ -1142,7 +1143,7 @@ a.btn.btn-primary{
 .carousel-caption {
   z-index: 10;
   color: black;
-  background:rgba(255,255,255,0.5);
+  background:rgba(255,255,255,0.9);
 }
 
 .carousel .item {

@@ -27,7 +27,7 @@
 <div class="page-header">
 	
 	<h1>
-<img class="logo-header" src="../images/logo.png"> Reproducible Science @ NYU <br><small>Reproducibility &amp; Open Science Working Group at NYU</small>
+<img class="logo-header" src="../images/logo.png"> Reproducible Science<br><small>Reproducibility &amp; Open Science Working Group at NYU</small>
 </h1>
 
 <!-- Menubar -->
@@ -101,25 +101,23 @@
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <a href="http://vida-nyu.github.io/reprozip/" target="_blank">ReproZip</a> is a tool aimed at simplifying the process of creating reproducible experiments from <em>command-line executions</em>. It automatically captures operating system calls and creates a package that contains all the binaries, files, and dependencies required to run a given command on the original researcher's computational environment.
+    <p><a href="http://vida-nyu.github.io/reprozip/">ReproZip</a> is a tool aimed at simplifying the process of creating reproducible experiments from <em>command-line executions</em>. It automatically captures operating system calls and creates a package that contains all the binaries, files, and dependencies required to run a given command on the original researcher's computational environment.</p>
 
-Reviewers can then unpack and run the experiments without having to install any additional software, even if the environment has a different operating system from the original one. ReproZip also generates a workflow specification for the experiment which reviewers can use to explore the experiment and try different configurations, while maintaining the provenance of the review process. Currently, ReproZip can only pack experiments that originally run on Linux.
+<p>Reviewers can then unpack and run the experiments without having to install any additional software, even if the environment has a different operating system from the original one. ReproZip also generates a workflow specification for the experiment which reviewers can use to explore the experiment and try different configurations, while maintaining the provenance of the review process. Currently, ReproZip can only pack experiments that originally run on Linux.</p>
 
-Concretely, ReproZip has two main steps:<a href="http://wp.nyu.edu/repro/wp-content/uploads/sites/2443/2015/08/scientific_method.png">
-</a> <a href="http://wp.nyu.edu/repro/wp-content/uploads/sites/2443/2015/09/reprozip-concepts.png"><img class="aligncenter wp-image-142 size-full" src="http://wp.nyu.edu/repro/wp-content/uploads/sites/2443/2015/09/reprozip-concepts.png" alt="reprozip-concepts" width="3979" height="820"></a>
-<ul class="simple">
+<p>Concretely, ReproZip has two main steps:</p>
+<img src="../images/reprozip-concepts.png" alt="reprozip-concepts"><ul class="simple">
 <li>The packing step happens in the original environment, and generates a compendium of the experiment, so as to make it reproducible. ReproZip tracks operating system calls while executing the experiment, and creates a <code class="docutils literal"><span class="pre">.rpz</span></code> file, which contains all the necessary information and components for the experiment.</li>
 	<li>The unpacking step reproduces the experiment from the <code class="docutils literal"><span class="pre">.rpz</span></code> file. ReproZip offers different unpacking methods, from simply decompressing the files in a directory to starting a full virtual machine, and they can be used interchangeably from the same packed experiment. It is also possible to automatically replace input files and command-line arguments. Note that this step is also available on Windows and Mac OS X, since ReproZip can unpack the experiment in a virtual machine for further reproduction.</li>
 </ul>
-While <em>reprozip</em> is responsible for tracing and packing an experiment, <em>reprounzip</em> is the component used for the unpacking step. <em>reprounzip</em> is distributed with three <strong>unpackers</strong> for Linux (e.g.: <em>reprounzip directory</em>, <em>reprounzip chroot</em>, and <em>reprounzip installpkgs</em>), but more unpackers are supported by installing additional plugins; some of these plugins are compatible with different environments as well (e.g.: <em>reprounzip-vagrant</em> and <em>reprounzip-docker</em>).
+<p>While <em>reprozip</em> is responsible for tracing and packing an experiment, <em>reprounzip</em> is the component used for the unpacking step. <em>reprounzip</em> is distributed with three <strong>unpackers</strong> for Linux (e.g.: <em>reprounzip directory</em>, <em>reprounzip chroot</em>, and <em>reprounzip installpkgs</em>), but more unpackers are supported by installing additional plugins; some of these plugins are compatible with different environments as well (e.g.: <em>reprounzip-vagrant</em> and <em>reprounzip-docker</em>).</p>
 
-Here is a video tutorial of how to use ReproZip with a computational experiment
+<p>For more detailed information, please refer to the following links:</p>
 
-For more detailed information, please refer to the following links:
 <ul>
-<li><a href="http://vida-nyu.github.io/reprozip/" target="_blank">ReproZip Website</a></li>
-	<li><a href="http://reprozip.readthedocs.org/" target="_blank">Documentation</a></li>
-	<li><a href="https://github.com/ViDA-NYU/reprozip" target="_blank">GitHub Project</a></li>
+<li><a href="https://reprozip.org">ReproZip Website</a></li>
+	<li><a href="http://reprozip.readthedocs.org/">Documentation</a></li>
+	<li><a href="https://github.com/ViDA-NYU/reprozip">GitHub Project</a></li>
 </ul>
 <p>A demo video of ReproZip can be found below:</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-zLPuwCHXo0" frameborder="0" allowfullscreen></iframe>

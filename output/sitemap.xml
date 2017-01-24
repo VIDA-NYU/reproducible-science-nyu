@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://reproduciblescience.org/nyu/</loc>
-  <lastmod>2017-01-23T19:35:00Z</lastmod>
+  <lastmod>2017-01-24T16:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://reproduciblescience.org/nyu/2016-repro-symposium-local/</loc>
@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://reproduciblescience.org/nyu/archive.html</loc>
-  <lastmod>2017-01-23T20:39:00Z</lastmod>
+  <lastmod>2017-01-24T19:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://reproduciblescience.org/nyu/categories/</loc>
@@ -44,6 +44,10 @@
  <url>
   <loc>https://reproduciblescience.org/nyu/present-pubs/</loc>
   <lastmod>2017-01-23T19:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://reproduciblescience.org/nyu/presentations-publications/</loc>
+  <lastmod>2017-01-24T16:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://reproduciblescience.org/nyu/reproducibility-nyu/</loc>
