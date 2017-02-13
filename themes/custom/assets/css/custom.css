@@ -7,13 +7,16 @@ body p {
 }
 
 
-/* --------------------Footer Links--------------------------*/
+/* --------------------Footer--------------------------*/
+#footer {
+  text-align: center;
+}
+
 #footer a {
   text-decoration: underline;
 }
 
 /* --------------------Page Header Tweaks--------------------------*/
-
 .logo-header img {
   float: left;
 }
