@@ -3,7 +3,7 @@ python: "3.5"
 # command to install dependencies
 install: pip install -U --upgrade-strategy=eager Nikola==8.0.0b2 requests PyYAML webassets pybibtex
 # command to run tests
-vefore_script: nikola plugin -i publication_list 
+before_script: nikola plugin -i publication_list 
 script: nikola build
 after_success: |
   [ $TRAVIS_BRANCH = master ] &&
