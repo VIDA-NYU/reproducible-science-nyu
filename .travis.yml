@@ -3,6 +3,7 @@ python: "3.5"
 # command to install dependencies
 install: pip install -U --upgrade-strategy=eager Nikola==8.0.0b2 requests PyYAML webassets
 # command to run tests
+script: nikola plugin -i publication_list 
 script: nikola build
 after_success: |
   [ $TRAVIS_BRANCH = master ] &&
