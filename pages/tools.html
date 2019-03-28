@@ -11,74 +11,61 @@
 
 	<p>The Moore-Sloan Data Science Environment Open Science &amp; Reproducibility Working Group at NYU has been in development of a suite of tools to simplify the process of making reproducible experiments, including:</p>
 	
-	<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="/images/repromatch.png" alt="Card image cap">
+  <div class="card-deck">
+   <div class="card">
+    <img src="/images/reprozip.png" class="card-img-top" alt="ReproZip logo">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://repromatch.engineering.nyu.edu/">ReproMatch</a></h5>
-      <p class="card-text">ReproMatch stands for Reproducibility Match and it was designed to help you find the tool (or tools) that best matches your reproduciblity needs. The tools in the ReproMatch catalog are classified according to different reproducibility tasks, which we organized in a taxonomy. Please see <a href="http://repromatch.poly.edu/task-descriptions" target="_blank">Reproducibility Tasks</a> for a detailed description of this taxonomy.</p>
+      <h5 class="card-title"><a href="http://reprozip.org/">ReproZip</a></h5>
+      <p class="card-text">ReproZip is a tool aimed at simplifying the process of creating reproducible experiments from command-line executions. It tracks operating system calls and creates a package that contains all the binaries, files, and dependencies required to run a given command on the author’s computational environment. A reviewer can then extract the experiment in their own environment to reproduce the results, even if the environment has a different operating system from the original one.</p>
+      <a href="https://examples.reprozip.org" class="card-link">See how researchers use ReproZip</a>
     </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="http://repromatch.engineering.nyu.edu/tools/search_table/?q=">Browse all the tools</small>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="/images/vistrails.png" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title"><a href="https://vistrails.org">VisTrails</a></h5>
-      <p class="card-text">VisTrails is an open-source scientific workflow and provenance management system that provides support for simulations, data exploration and visualization. Whereas workflows have been traditionally used to automate repetitive tasks, for applications that are exploratory in nature, such as simulations, data analysis and visualization, very little is repeated---change is the norm.</p>
-    </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://vistrails.org">Read more about VisTrails</a></small>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="/images/reana.png" alt="Card image cap">
+   </div>
+   <div class="card">
+    <img src="/images/reana.png" class="card-img-top" alt="REANA logo">
     <div class="card-body">
       <h5 class="card-title"><a href="http://www.reana.io/">REANA</a></h5>
       <p class="card-text">Reana is an free and open source reproducible research data analysis platform built at CERN. It lets users structure analysis inputs, code, environments, workflows and run analysis on remote containerised compute clouds.</p>
+	  <a href="http://www.reana.io/#examples" class="card-link">See some REANA examples</a>
     </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="http://www.reana.io/#examples">See some REANA examples</a></small>
-    </div>
-  </div>
-	</div>
-	
-	<br/>
-	
-	<div class="card-deck">
-  <div class="card">
-    <img class="card-img-top" src="/images/reprozip.png" alt="Card image cap">
+   </div>
+   <div class="card">
+    <img src="/images/repromatch.png" class="card-img-top" alt="ReproMatch screenshot">
     <div class="card-body">
-      <h5 class="card-title"><a href="http://reprozip.org/">ReproZip</a></h5>
-      <p class="card-text">ReproZip is a tool aimed at simplifying the process of creating reproducible experiments from command-line executions. It tracks operating system calls and creates a package that contains all the binaries, files, and dependencies required to run a given command on the author’s computational environment. A reviewer can then extract the experiment in their own environment to reproduce the results, even if the environment has a different operating system from the original one. Currently, ReproZip can only pack experiments that originally run on Linux.</p>
+      <h5 class="card-title"><a href="http://repromatch.engineering.nyu.edu/">ReproMatch</a></h5>
+      <p class="card-text">ReproMatch stands for Reproducibility Match and it was designed to help you find the tool (or tools) that best matches your reproduciblity needs. The tools in the ReproMatch catalog are classified according to different reproducibility tasks, which we organized in a taxonomy. Please see <a href="http://repromatch.poly.edu/task-descriptions" target="_blank">Reproducibility Tasks</a> for a detailed description of this taxonomy.</p>
+      <a href="http://repromatch.engineering.nyu.edu/tools/search_table/?q=" class="card-link">Browse all the tools</a>
     </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://examples.reprozip.org">See how researchers use ReproZip</small>
-    </div>
+   </div>
   </div>
-  <div class="card">
-    <img class="card-img-top" src="/images/recast.png" alt="Card image cap">
+	
+  <br/>
+	
+  <div class="card-deck">
+   <div class="card">
+    <img src="/images/vistrails.png" class="card-img-top" alt="VisTrails logo">
+    <div class="card-body">
+      <h5 class="card-title"><a href="https://vistrails.org">VisTrails</a></h5>
+      <p class="card-text">VisTrails is an open-source scientific workflow and provenance management system that provides support for simulations, data exploration and visualization. Whereas workflows have been traditionally used to automate repetitive tasks, for applications that are exploratory in nature, such as simulations, data analysis and visualization, very little is repeated---change is the norm.</p>
+      <a href="https://vistrails.org" class="card-link">Read more about VisTrails</a>
+    </div>
+   </div>
+   <div class="card">
+    <img src="/images/recast.png" class="card-img-top" alt="RECAST logo">
     <div class="card-body">
       <h5 class="card-title"><a href="https://recast.cern.ch/">RECAST</a></h5>
       <p class="card-text">A framework for extending the impact of existing analyses performed by high-energy physics experiments. Anyone can add analyses to the Analysis Catalog, upload alternative signals in the LHE format and request that any given analysis is "recast" for their alternative model, and subscribe to an analysis to be informed of activity associated with the analysis. The impact of RECAST depends entirely on the incorporation and integration of existing analyses into the framework.</p>
+      <a href="https://github.com/recast-hep/" class="card-link">See the source of RECAST</a>
     </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://github.com/recast-hep/">See the source of RECAST</a></small>
-    </div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="/images/noworkflow.png" alt="Card image cap">
+   </div>
+   <div class="card">
+    <img src="/images/noworkflow.png" class="card-img-top" alt="noWorkflow logo">
     <div class="card-body">
       <h5 class="card-title"><a href="https://github.com/gems-uff/noworkflow">NoWorkFlow</a></h5>
-      <p class="card-text">noWorkflow is a non-intrusive tool that doesn’t require researchers to change the way in which they work, but instead allows them to capture a variety of provenance information and utilize the analyses it supports, including graph-based visualization, differencing over provenance trails, and inference queries. noWorkflow was developed in Python and it currently is able to capture provenance of Python scripts using Software Engineering techniques such as abstract syntax tree (AST) analysis, reflection, and profiling, to collect provenance without the need of a version control system or any other environment.</p>
+      <p class="card-text">noWorkflow is a non-intrusive tool that doesn’t require researchers to change the way in which they work, but instead allows them to capture a variety of provenance information and utilize the analyses it supports, including graph-based visualization, differencing over provenance trails, and inference queries. noWorkflow was developed in Python and it currently is able to capture provenance of Python scripts using Software Engineering techniques such as abstract syntax tree (AST) analysis, reflection, and profiling, to collect provenance without the need of a version control system or any other environment.</p>
+      <a href="https://github.com/gems-uff/noworkflow/wiki/Videos" class="card-link">Watch a tutorial video on the wiki</a>
     </div>
-    <div class="card-footer">
-      <small class="text-muted"><a href="https://github.com/gems-uff/noworkflow/wiki/Videos">Watch a tutorial video on the Wiki</a></small>
-    </div>
+   </div>
   </div>
-	</div>
-	
 
   </body>
 </html>

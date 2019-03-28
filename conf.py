@@ -5,18 +5,8 @@ import time
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
-
-# ! Some settings can be different in different languages.
-# ! A comment stating (translatable) is used to denote those.
-# ! There are two ways to specify a translatable setting:
-# ! (a) BLOG_TITLE = "My Blog"
-# ! (b) BLOG_TITLE = {"en": "My Blog", "es": "Mi Blog"}
-# ! Option (a) is used when you don't want that setting translated.
-# ! Option (b) is used for settings that are different in different languages.
-
-
 # Data about this site
-BLOG_AUTHOR = "NYU Reproducibility Working Group"  # (translatable)
+BLOG_AUTHOR = "NYU ROS Working Group"  # (translatable)
 BLOG_TITLE = "Reproducible Science @ NYU"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -26,57 +16,22 @@ SITE_URL = "https://nyu.reproduciblescience.org/"
 # BASE_URL = "https://nyu.reproduciblescience.org/"
 BLOG_EMAIL = "vicky.steeves@nyu.edu"
 BLOG_DESCRIPTION = "Reproducibility & Open Science Working Group at NYU"  # (translatable)
+
 # What is the default language?
 DEFAULT_LANG = "en"
-
-# Links for the sidebar / navigation bar.  (translatable)
-# This is a dict.  The keys are languages, and values are tuples.
-#
-# For regular links:
-#     ('https://getnikola.com/', 'Nikola Homepage')
-#
-# For submenus:
-#     (
-#         (
-#             ('https://apple.com/', 'Apple'),
-#             ('https://orange.com/', 'Orange'),
-#         ),
-#         'Fruits'
-#     )
-#
-# WARNING: Support for submenus is theme-dependent.
-#          Only one level of submenus is supported.
-# WARNING: Some themes, including the default Bootstrap 4 theme,
-#          may present issues if the menu is too large.
-#          (in Bootstrap, the navbar can grow too large and cover contents.)
-# WARNING: If you link to directories, make sure to follow
-#          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
-#          with a ``/``, otherwise end them with ``/index.html`` — or
-#          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
-				  (
-				     ('/reproducibility-nyu/', 'Overview'),
-						 ('/who-we-are/', 'People'),
-					 ),  
-				   'Working Group'
-				),
-				(
-				  (
-				     ('/tools/', 'Overview'),
-						 ('https://reprozip.org', 'ReproZip <i class="fas fa-external-link-alt"></i>'),
-						 ('https://vistrails.org', 'VisTrails <i class="fas fa-external-link-alt"></i>'),
-						 ('https://github.com/gems-uff/noworkflow', 'NoWorkflow <i class="fas fa-external-link-alt"></i>'),
-						 ('http://www.reana.io/', 'Reana <i class="fas fa-external-link-alt"></i>'),
-						 ('https://recast.cern.ch', 'RECAST <i class="fas fa-external-link-alt"></i>'),
-						 ('https://github.com/diana-hep/yadage', 'Yadage <i class="fas fa-external-link-alt"></i>')
-					 ),  
-				   'Tools'
-				),
-				('/schol-output/','Activities & Output'),
-				('/past-events/', 'Events'),
+	(
+	  ('/reproducibility-nyu/', 'Overview'),
+	  ('/who-we-are/', 'People'),
+	),  
+	'Working Group'
+	),
+        ('/tools/', 'Tool Development'),
+        ('/schol-output/','Scholarship'),
+	('/past-events/', 'Events'),
     )
 }
 
@@ -93,26 +48,6 @@ THEME = "custom"
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
 THEME_COLOR = '#5670d4'
-
-# Theme configuration. Fully theme-dependent. (translatable)
-# Examples below are for bootblog4.
-THEME_CONFIG = {
-    DEFAULT_LANG: {
-        # Show the latest featured post in a large box, with the previewimage as its background.
-        'featured_large': False,
-        # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': False,
-        # Show featured posts on mobile.
-        'featured_on_mobile': True,
-        # Show image in `featured_large` on mobile.
-        # `featured_small` displays them only on desktop.
-        'featured_large_image_on_mobile': True,
-        # Strip HTML from featured post text.
-        'featured_strip_html': False,
-        # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
-    }
-}
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -148,17 +83,19 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = ()
-
+POSTS = (
+    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
+)
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
     ("pages/*.html", "", "page.tmpl"),
 )
 
-# Final location for the main blog page and sibling paginated pages is
-# output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# (translatable)
-INDEX_PATH = "directory"
 
 # Below this point, everything is optional
 
@@ -177,12 +114,13 @@ TIMEZONE = "America/New_York"
 # FORCE_ISO8601 = False
 
 # Date format used to display post dates. (translatable)
-# (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%d-%m-%Y'
+# Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
+# You can also use 'full', 'long', 'medium', or 'short'
+# DATE_FORMAT = 'YYYY-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
-# (str used by moment.js)
-JS_DATE_FORMAT = 'DD:MM:YYYY'
+# Used by moment.js: https://momentjs.com/docs/#/displaying/format/
+# JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
 # Date fanciness.
 #
@@ -193,20 +131,9 @@ JS_DATE_FORMAT = 'DD:MM:YYYY'
 # Your theme must support it, Bootstrap already does.
 # DATE_FANCINESS = 0
 
-# While Nikola can select a sensible locale for each language,
-# sometimes explicit control can come handy.
-# In this file we express locales in the string form that
-# python's locales will accept in your OS, by example
-# "en_US.utf8" in Unix-like OS, "English_United States" in Windows.
-# LOCALES = dict mapping language --> explicit locale for the languages
-# in TRANSLATIONS. You can omit one or more keys.
-# LOCALE_FALLBACK = locale to use when an explicit locale is unavailable
-# LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
-# not set the default Nikola mapping is used.
-
+# Customize the locale/region used for a language.
+# For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
 # LOCALES = {}
-# LOCALE_FALLBACK = None
-# LOCALE_DEFAULT = None
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -279,10 +206,7 @@ LOGO_URL = '/images/logo.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
-SHOW_BLOG_TITLE = True
-
-# Writes tag cloud data in form of tag_cloud_data.json.
-WRITE_TAG_CLOUD = False
+# SHOW_BLOG_TITLE = True
 
 # Paths for different autogenerated bits. These are combined with the
 # translation paths.
@@ -304,7 +228,7 @@ WRITE_TAG_CLOUD = False
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-TAG_PAGES_ARE_INDEXES = True
+# TAG_PAGES_ARE_INDEXES = False
 
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -325,7 +249,7 @@ TAG_PAGES_ARE_INDEXES = True
 # }
 
 # If you do not want to display a tag publicly, you can mark it as hidden.
-# The tag will not be displayed on the tag list page, the tag cloud and posts.
+# The tag will not be displayed on the tag list page and posts.
 # Tag pages will still be generated.
 HIDDEN_TAGS = ['mathjax']
 
@@ -474,6 +398,11 @@ HIDDEN_CATEGORIES = []
 # Tag pages will still be generated.
 HIDDEN_AUTHORS = ['Guest']
 
+# Final location for the main blog page and sibling paginated pages is
+# output / TRANSLATION[lang] / INDEX_PATH / index-*.html
+# (translatable)
+INDEX_PATH = "posts"
+
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
@@ -529,7 +458,7 @@ FRONT_INDEX_HEADER = {
 
 # Atom filename base (without extension); used for indexes.
 # (translatable)
-# ATOM_FILENAME_BASE = "feed"
+ATOM_FILENAME_BASE = "feed"
 
 # Extension for Atom feed files
 # ATOM_EXTENSION = ".atom"
@@ -549,9 +478,7 @@ FRONT_INDEX_HEADER = {
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [
-    ('reproducibility-directory/index.html', '/directory/'),
-]
+REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -573,8 +500,8 @@ REDIRECTIONS = [
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'master'
-GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'src'
+GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
@@ -771,7 +698,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # If False, index-1.html has the second-newest posts, index-2.html the third-newest,
 # and index-n.html the oldest posts. When this is active, old posts can be moved
 # to other index pages when new posts are added.
-INDEXES_STATIC = False
+# INDEXES_STATIC = True
 #
 # (translatable) If PRETTY_URLS is set to True, this setting will be used to create
 # prettier URLs for index pages, such as page/2/index.html instead of index-2.html.
@@ -796,7 +723,7 @@ INDEXES_STATIC = False
 # If the following is true, a page range navigation will be inserted to indices.
 # Please note that this will undo the effect of INDEXES_STATIC, as all index pages
 # must be recreated whenever the number of pages changes.
-SHOW_INDEX_PAGE_NAVIGATION = True
+# SHOW_INDEX_PAGE_NAVIGATION = False
 
 # If the following is True, a meta name="generator" tag is added to pages. The
 # generator tag is used to specify the software used to generate the page
@@ -816,9 +743,10 @@ SHOW_INDEX_PAGE_NAVIGATION = True
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-FAVICONS = (
-     ("favicon", "favicon.ico", "16x16"),
-)
+# FAVICONS = (
+#     ("icon", "/favicon.ico", "16x16"),
+#     ("icon", "/icon_128x128.png", "128x128"),
+# )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
@@ -864,7 +792,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '{date} <a href="mailto:{email}">{author}</a> | Licensed <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> | <a href="https://github.com/vida-nyu/reproducible-science-nyu"><i class="fab fa-github"></i></a>'
+CONTENT_FOOTER = '{date} <a href="mailto:{email}">{author}</a> | Licensed <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -890,6 +818,12 @@ CONTENT_FOOTER_FORMATS = {
         }
     )
 }
+
+# A simple copyright tag for inclusion in RSS feeds that works just
+# like CONTENT_FOOTER and CONTENT_FOOTER_FORMATS
+RSS_COPYRIGHT = 'Contents © {date} <a href="mailto:{email}">{author}</a> {license}'
+RSS_COPYRIGHT_PLAIN = 'Contents © {date} {author} {license}'
+RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
 # To use comments, you can choose between different third party comment
 # systems.  The following comment systems are supported by Nikola:
@@ -1038,15 +972,15 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-# INDEX_DISPLAY_POST_COUNT = 6
+# INDEX_DISPLAY_POST_COUNT = 10
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
-# GENERATE_RSS = False
+# GENERATE_RSS = True
 
 # By default, Nikola does not generates Atom files for indexes and links to
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
@@ -1129,24 +1063,11 @@ SHOW_SOURCELINK = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = '''
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/solid.css" integrity="sha384-TbilV5Lbhlwdyc4RuIV/JhD8NR+BfMrvz4BL5QFa2we1hQu6wvREr3v6XSRfCTRp" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/regular.css" integrity="sha384-avJt9MoJH2rB4PKRsJRHZv7yiFZn8LrnXuzvmZoD3fh1aL6aM6s0BBcnCvBe6XSD" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/brands.css" integrity="sha384-7xAnn7Zm3QC1jFjVc1A6v/toepoG3JXboQYzbM0jrPzou9OFXm/fY6Z/XiIebl/k" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/fontawesome.css" integrity="sha384-ozJwkrqb90Oa3ZNb+yKFW2lToAWYdTiF1vt8JiH5ptTGHTGcN7qdoR1F95e0kYyG" crossorigin="anonymous">
-'''
-
-
+# EXTRA_HEAD_DATA = ""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = '''<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-86255717-1', 'auto');
-ga('send', 'pageview');</script>
-'''
+# BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
@@ -1167,7 +1088,9 @@ ga('send', 'pageview');</script>
 # Should titles fetched from file metadata be unslugified (made prettier?)
 # FILE_METADATA_UNSLUGIFY_TITLES = True
 
-# If enabled, extract metadata from docinfo fields in reST documents
+# If enabled, extract metadata from docinfo fields in reST documents.
+# If your text files start with a level 1 heading, it will be treated as the
+# document title and will be removed from the text.
 # USE_REST_DOCINFO_METADATA = False
 
 # If enabled, hide docinfo fields in reST document output
@@ -1219,9 +1142,9 @@ ga('send', 'pageview');</script>
 #     # 'creator': '@username',     # Username for the content creator / author.
 # }
 
-# If webassets is installed, bundle JS and CSS into single files to make
-# site loading faster in a HTTP/1.1 environment but is not recommended for
-# HTTP/2.0 when caching is used. Defaults to True.
+# Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
+# environment but is not recommended for HTTP/2.0 when caching is used.
+# Defaults to True.
 # USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
@@ -1259,12 +1182,6 @@ ga('send', 'pageview');</script>
 # example.
 # (defaults to 1.)
 # DEMOTE_HEADERS = 1
-
-# Docutils, by default, will perform a transform in your documents
-# extracting unique titles at the top of your document and turning
-# them into metadata. This surprises a lot of people, and setting
-# this option to True will prevent it.
-# NO_DOCUTILS_TITLE_TRANSFORM = False
 
 # If you don’t like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.

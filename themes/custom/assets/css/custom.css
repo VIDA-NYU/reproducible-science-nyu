@@ -1,84 +1,30 @@
+/********* GENERAL SETTINGS ********/
 body p {
-  font-size:1.2em;
+ font-size: 1.2em;
+} 
+
+body li {
+ font-size: 1.2em;
+} 
+
+/********* NAVBAR SETTINGS ********/
+.bg-dark {
+  background-color: #57068c !important;
 }
 
-body ul > li {
-	font-size:1.2em;
+#blog-title {
+  vertical-align: -moz-middle-with-baseline;
+  margin-left: 0.5rem;
+  font-size: 1.2em;
 }
 
-body a {
-	color: #57068c;
+.navbar-dark .navbar-nav .nav-link {
+  font-size: 1.2em;
+  color: white; 
 }
 
-
-/* --------------------BUTTONS--------------------------*/
-
-.bg-primary { 
-	background-color: #57068c !important;
-}
-
-.btn-primary {
-	background-color: #57068c !important;
-	color: #fff !important;
-}
-
-
-.btn-primary:hover {
-	background-color: #330662 !important;
-	color: #fff !important;
-}
-
-.border-primary {
-	border-color: #57068c !important;
-}
-
-.btn-secondary {
-	background-color: #068c57 !important;
-	color: #fff !important;
-	border-color: #047045 !important;
-}
-
-
-.btn-secondary:hover {
-	background-color: #047045 !important;
-	color: #fff !important;
-}
-
-
-/* --------------------NAVBAR--------------------------*/
-
-.navbar { 
-	font-size: 1.2em;
-}
-
-.navbar-brand {
-	font-size: 1.2em;
-}
-
-.navbar-dark .navbar-nav .nav-link { 
-	color:#e5e5e5 !important;
-}
-
-.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active { 
-	color: #fff !important;
-	font-weight: 600;
-}
-
-.nav-link .fab {
-	color: #fff !important;
-}
-
-.nav-link .fas {
-	color: #fff !important;
-}
-
-#blog-title{
-	vertical-align: -moz-middle-with-baseline !important;
-	padding-left: 0.2em;
-}
-
-/* --------------------FOOTER--------------------------*/
-#footer {
-  text-align: center;
-  font-size:1.2em;
+.dropdown-item:hover, .dropdown-item:focus {
+  color: white;
+  text-decoration: none;
+  background-color: #57068c;
 }
