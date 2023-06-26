@@ -14,7 +14,7 @@ SITE_URL = "https://nyu.reproduciblescience.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://nyu.reproduciblescience.org/"
-BLOG_EMAIL = "vicky.steeves@nyu.edu"
+BLOG_EMAIL = "vicky.rampin@nyu.edu"
 BLOG_DESCRIPTION = "Reproducibility & Open Science Working Group at NYU"  # (translatable)
 
 # What is the default language?
